@@ -11,6 +11,8 @@
 
 #print(15+15)
 
-#print(14,"Bipan")
+print(14,"Bipan")
+print('a'+'Bipan')
+
 
 #print("Bipan","Sajwal")
