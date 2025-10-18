@@ -4,13 +4,15 @@ Class=eval(input("Enter Your Class:"))
 age=int(input("Enter Your Age: "))
 
 if age>60:
-    print(Name+" " "You belongs to Old citizen category")
+    print("You belongs to Old citizen category" +Name)
 
-elif 20>age<59:
+elif 20<age<59:
     print(Name+" " "You belong to mid age Category")
 
 else:
     print(Name+ " " "YOu belong to child group")
+
+
 
 
 
@@ -37,6 +39,7 @@ elif 40<= percentage <=60:
 
 else:
     print("SOrry You're failed")
+
 
 
 
