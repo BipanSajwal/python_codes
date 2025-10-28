@@ -16,3 +16,8 @@ print('a'+'Bipan')
 
 
 #print("Bipan","Sajwal")
+
+
+
+c="Bipan"
+print(f"My Name Is {c}")
